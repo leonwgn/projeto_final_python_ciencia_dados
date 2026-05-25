@@ -56,24 +56,11 @@ def render_home():
 
             ---
                 
-            ### Alunos
+            ### Aluno
 
             **Matrícula:** 1471280  
             **Nome:** Leon Wagner Farias de Souza  
             **Email:** 1471280@sga.pucminas.br  
-
-            **Matrícula:** 1666114  
-            **Nome:** Marcos Silva de Castro  
-            **Email:** 1666114@sga.pucminas.br  
-
-            **Matrícula:** 1665824  
-            **Nome:** Victor Paiva Nevola  
-            **Email:** 1665824@sga.pucminas.br  
-
-            **Matrícula:** 1669007  
-            **Nome:** Kelvin de Lucca Feltrin  
-            **Email:** 1669007@sga.pucminas.br  
-
             ---
 
             ### Objetivo da Aplicação

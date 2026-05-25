@@ -11,12 +11,8 @@ Projeto desenvolvido como parte da disciplina **Python para Ciência de Dados**,
 - **Disciplina:** Python para Ciência de Dados
 - **Professor:** Leandro Figueira Lessa
 
-### Alunos
-
+### Aluno
 - **1471280** - Leon Wagner Farias de Souza - 1471280@sga.pucminas.br
-- **1666114** - Marcos Silva de Castro - 1666114@sga.pucminas.br
-- **1665824** - Victor Paiva Nevola - 1665824@sga.pucminas.br
-- **1669007** - Kelvin de Lucca Feltrin - 1669007@sga.pucminas.br
 
 ---
 
